@@ -1,5 +1,6 @@
 
 
+
 # [Valtech](https://www.valtech.com/) Flutter Showcases
 
 ![Logo](https://github.com/ValtechDK/flutter-showcases/blob/729f702bf5dfafb1470b3997c063b34323b7e1ca/FlutterUiChallenge.png)
@@ -9,7 +10,7 @@ This is a collection of [Flutter](https://flutter.dev/) sample apps which presen
 
 |Showcase  | Screenshot |
 |--|--|
-| 1. Awesome Profile |  |
+| 1. [Awesome Profile](https://github.com/ValtechDK/flutter-showcases/tree/main/awesome_profile) | <img src="https://github.com/ValtechDK/flutter-showcases/blob/b6322d69388d683c0221ec4b18075fe93daac88e/awesome_profile/screenshot_iphone.png" width="200"> |
 | 2. TODO |  |
 
 
