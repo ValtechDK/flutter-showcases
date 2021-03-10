@@ -1,7 +1,9 @@
 
+
 # [Valtech](https://www.valtech.com/) Flutter Showcases
 
-This is a collection of [Flutter](https://flutter.dev/) sample apps which presents UI/UX capabilities of Flutter framework when working with custom desgins.
+![Logo](https://github.com/ValtechDK/flutter-showcases/blob/729f702bf5dfafb1470b3997c063b34323b7e1ca/FlutterUiChallenge.png)
+This is a collection of [Flutter](https://flutter.dev/) sample apps which presents UI/UX capabilities of Flutter framework when working with custom designs.
 
 ## Available Showcases
 
